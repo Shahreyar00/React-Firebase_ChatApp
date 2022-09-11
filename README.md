@@ -1,6 +1,6 @@
 ### This repository contains code for React+Firebase chat application
 
-#### You have to add your own firebase config file in the source directory with the following items:
+#### You have to add your own (firebase.js) config file in the source directory with the following items:
 ```
 
 import { initializeApp } from "firebase/app";
